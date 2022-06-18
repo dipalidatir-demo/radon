@@ -1,0 +1,1 @@
+const newPublisherModel = require('../models/newPublisher')
