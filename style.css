@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> css file</title>
+<!-- 1) external css (recomonded)  -->
+<!-- here we add external style .css file and only take the h1 tag from here and edit in style.css file -->
+<!-- <<link rel="stylesheet" type="text/css" href="style.css">> -->
+
+
+
+
+<!-- 2) internal css (to lengthy ) -->
+<!-- <here we add <style> tag in same file in between head tag  below title tag -->
+
+<!-- <<style>
+    h2{
+     color: brown;
+    }
+</style> > -->
+
+</head>
+<body>
+    <!-- <3) inline css (not recomonded)> -->
+     <!-- <here we add style tag directly in "h1-h2" element> -->
+
+    <!-- <<h2 style="color:blue ;"> welcome... </h2>
+    <h1>......</h1>> -->
+
+</body>
+</html>
